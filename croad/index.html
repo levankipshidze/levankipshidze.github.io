@@ -1,0 +1,23 @@
+<!doctype HTML>
+<html lang="en">
+<head><script>if (window.parent !== window.self) window.parent.postMessage("bonk", "*"); window.addEventListener("DOMContentLoaded", function() {document.body.style.margin = "0";document.body.style.height = "100vh";document.body.style.overflow = "hidden"})</script>
+<script async src="/nc/script.js"></script>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+<title>Crossy Road</title>
+<link rel="stylesheet" href="style.css" />
+<link rel="stylesheet" async href="app-store-interstitial.css" />
+<script>
+		var origOpen = XMLHttpRequest.prototype.open;
+		XMLHttpRequest.prototype.open = function(...args) {
+			args[1] = /^https?:/.test(args[1]) && !args[1].includes(window.location.host) ? 'https://onebigstatic-tmm.tbt.mx/static/' + args[1] : args[1];
+			origOpen.apply(this, args);
+		};
+	</script>
+<script src="game-cdn.poki.com/scripts/v2/poki-sdk.js"></script>
+<script src="scripts/extra.min.js"></script>
+</head>
+<body>
+<script src="scripts/bootstrap.min.js"></script>
+</body>
+</html>
