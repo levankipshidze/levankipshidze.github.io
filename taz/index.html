@@ -8,17 +8,11 @@
     <link rel="shortcut icon" href="favicon.ico">
     <link rel="stylesheet" href="style.css">
     <script src="UnityProgress.js"></script>  
-    <script src="UnityLoadernobody.js"></script>
+    <script src="UnityLoader.js"></script>
   
-      <script>  
-UnityLoader.instantiate("gameContainer", "game.json", {onProgress: UnityProgress,
-  Module: {
-    wasmRequest: function (wasmInstantiate, callback) {
-      wasmInstantiate(this.wasmBinary).then(function (result) { callback(result.instance); });
-    },
-  }
-});
- </script>
+   <script>
+	var gameInstance = UnityLoader.instantiate("gameContainer", "game.json", {onProgress: UnityProgress});
+</script>
   </head>
   <body>
     <div class="webgl-content">
