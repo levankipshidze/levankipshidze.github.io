@@ -8037,9 +8037,9 @@ lib.properties = {
 	color: "#333333",
 	opacity: 0.00,
 	manifest: [
-		{src:"images/_1000WebGames.png", id:"_1000WebGames"},
-		{src:"images/_1000Games.png", id:"_1000Games"},
-		{src:"images/_1000bulta.png", id:"_1000bulta"},
+		{src:"images/1000WebGames.png", id:"_1000WebGames"},
+		{src:"images/1000Games.png", id:"_1000Games"},
+		{src:"images/1000bulta.png", id:"1000bulta"},
 		{src:"images/ach1.jpg", id:"ach1"},
 		{src:"images/ach10.jpg", id:"ach10"},
 		{src:"images/ach11.jpg", id:"ach11"},
