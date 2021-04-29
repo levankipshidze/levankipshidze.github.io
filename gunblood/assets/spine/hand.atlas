@@ -1,0 +1,216 @@
+
+hand.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black/arm_0
+  rotate: false
+  xy: 830, 39
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+black/arm_1
+  rotate: true
+  xy: 958, 9
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+blood/arm_1
+  rotate: false
+  xy: 83, 17
+  size: 53, 19
+  orig: 53, 19
+  offset: 0, 0
+  index: -1
+blood/forearm_1
+  rotate: true
+  xy: 138, 19
+  size: 17, 50
+  orig: 17, 50
+  offset: 0, 0
+  index: -1
+blood/forearm_2
+  rotate: true
+  xy: 410, 22
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+bonus/arm_0
+  rotate: false
+  xy: 544, 36
+  size: 71, 26
+  orig: 71, 26
+  offset: 0, 0
+  index: -1
+bonus/arm_1
+  rotate: false
+  xy: 678, 2
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+bonus/knife
+  rotate: true
+  xy: 190, 24
+  size: 12, 53
+  orig: 12, 53
+  offset: 0, 0
+  index: -1
+char_1/arm_0
+  rotate: false
+  xy: 83, 38
+  size: 69, 24
+  orig: 69, 24
+  offset: 0, 0
+  index: -1
+char_9/arm_0
+  rotate: false
+  xy: 83, 38
+  size: 69, 24
+  orig: 69, 24
+  offset: 0, 0
+  index: -1
+char_1/arm_1
+  rotate: false
+  xy: 733, 4
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+char_9/arm_1
+  rotate: false
+  xy: 733, 4
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+char_2/arm_0
+  rotate: false
+  xy: 154, 38
+  size: 69, 24
+  orig: 69, 24
+  offset: 0, 0
+  index: -1
+char_2/arm_1
+  rotate: false
+  xy: 790, 4
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+char_3/arm_0
+  rotate: false
+  xy: 896, 39
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+char_3/arm_1
+  rotate: false
+  xy: 904, 11
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+char_3x/arm_0
+  rotate: false
+  xy: 617, 39
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+char_3x/arm_1
+  rotate: true
+  xy: 2, 4
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+char_5/arm_0
+  rotate: false
+  xy: 691, 39
+  size: 68, 23
+  orig: 68, 23
+  offset: 0, 0
+  index: -1
+char_5/arm_1
+  rotate: true
+  xy: 993, 9
+  size: 53, 28
+  orig: 53, 28
+  offset: 0, 0
+  index: -1
+char_6/arm_0
+  rotate: false
+  xy: 605, 9
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+char_6/arm_1
+  rotate: true
+  xy: 42, 13
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+char_8/arm_0
+  rotate: false
+  xy: 225, 38
+  size: 68, 24
+  orig: 68, 24
+  offset: 0, 0
+  index: -1
+char_8/arm_1
+  rotate: false
+  xy: 847, 4
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 544, 3
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+gun_flame
+  rotate: true
+  xy: 350, 38
+  size: 24, 58
+  orig: 24, 58
+  offset: 0, 0
+  index: -1
+pointer
+  rotate: false
+  xy: 245, 19
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+pointer_line
+  rotate: false
+  xy: 42, 10
+  size: 500, 1
+  orig: 500, 1
+  offset: 0, 0
+  index: -1
+redhead/arm_0
+  rotate: false
+  xy: 761, 39
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+redhead/arm_1
+  rotate: false
+  xy: 295, 31
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
