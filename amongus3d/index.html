@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  </head>
+  <body>
+    <title>Among Us 3D - Levan Kipshidze</title>
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="style.css">
+    <script src="UnityProgress.js"></script>  
+    <script src="UnityLoadernobody.js"></script>
+  
+       <script>
+      var gameInstance = UnityLoader.instantiate("gameContainer", "among3d.json", {onProgress: UnityProgress,Module:{onRuntimeInitialized: function() {UnityProgress(gameInstance, "complete")}}});
+    </script>
+  </head>
+  <body>
+    <div class="webgl-content">
+      <div id="gameContainer" style="width: 960px; height: 650px"></div>
+      <div class="footer">
+        <div class="webgl-logo"></div>
+        <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
+        <div class="title">Among Us 3D</div>
+        <div class="simmer"><a href="https://sites.google.com/site/unblockedgames77/" target="_blank">Unblocked Games</a></div>
+        </div>
+    </div>
+  </body>
+</html>
+
+

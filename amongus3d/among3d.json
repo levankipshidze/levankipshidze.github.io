@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "AMONG US 3D",
+"dataUrl": "among3d.data.unityweb",
+"wasmCodeUrl": "among3d.wasm.code.unityweb",
+"wasmFrameworkUrl": "among3d.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#330861",
+"cacheControl": {"default": "must-revalidate"}
+}
